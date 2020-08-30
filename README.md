@@ -105,3 +105,16 @@ Cursos y tutoriales de infomática en español
 - [Diseño Gráfico](https://yoneygallardo.com/category/diseno-grafico-y-marketing/)
 - [Desarrollo Web](https://yoneygallardo.com/category/curso-de-desarrollo-y-diseno-web/)
 - [Audio y Video](https://yoneygallardo.com/category/cursos-de-audio-y-video/)
+
+## [fullstackopen](https://fullstackopen.com/en)
+Aprende React, Redux, Node, Mongo, Graphql y TypeScript
+- [Fundamentas of Web apps](https://fullstackopen.com/en/part0)
+- [Instroduction to React](https://fullstackopen.com/en/part1)
+- [Communicating with server](https://fullstackopen.com/en/part2)
+- [Programming a server with NodeJS and Express](https://fullstackopen.com/en/part3)
+- [Testing Express servers, user administration](https://fullstackopen.com/en/part4)
+- [Testing React apps](https://fullstackopen.com/en/part5)
+- [State management with Redux](https://fullstackopen.com/en/part6s)
+- [React router, custom hooks, styling app with CSS and webpack](https://fullstackopen.com/en/part7)
+- [GraphQL](https://fullstackopen.com/en/part8)
+- [Typescript](https://fullstackopen.com/en/part9)
