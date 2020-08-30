@@ -2,7 +2,8 @@
 
 Lista de recursos para ser un desarrollador
 
-[Freecodecamp](https://www.freecodecamp.org/learn): Plataforma educativa que brinda las siguentes certificaciones completamente gratuitas, cuenta con bolsa de trabajo y un canal de [youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+## [Freecodecamp](https://www.freecodecamp.org/learn): 
+Plataforma educativa que brinda las siguentes certificaciones completamente gratuitas, cuenta con bolsa de trabajo y un canal de [youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
 - JavaScriopt Algorithms and Data Structures
 - Front End Libraries
@@ -14,16 +15,19 @@ Lista de recursos para ser un desarrollador
 - Information Security
 - Machine Learning with Python Certification
 
-[Redis University](https://university.redislabs.com/) Aprende Redis con cursos gratuitos
-    - [Introduction to Redis Data Structures](https://university.redislabs.com/courses/ru101/)
-    - [Redis for Java Developers](https://university.redislabs.com/courses/ru102j/)
-    - [Redis for JavaScript Developers](https://university.redislabs.com/courses/ru102js/)
-    - [Redis for Python Developers](https://university.redislabs.com/courses/ru102py/)
-    - [RediSearch](https://university.redislabs.com/courses/ru201/)
-    - [Redis Streams](https://university.redislabs.com/courses/ru202/)
-    - [Redis Security](https://university.redislabs.com/courses/ru330/)
+## [Redis University](https://university.redislabs.com/) 
+Aprende Redis con cursos gratuitos
 
-[MongoDB University](https://university.mongodb.com/) Aprende MongDB con cursos y tutoriales gratuitos
+- [Introduction to Redis Data Structures](https://university.redislabs.com/courses/ru101/)
+- [Redis for Java Developers](https://university.redislabs.com/courses/ru102j/)
+- [Redis for JavaScript Developers](https://university.redislabs.com/courses/ru102js/)
+- [Redis for Python Developers](https://university.redislabs.com/courses/ru102py/)
+- [RediSearch](https://university.redislabs.com/courses/ru201/)
+- [Redis Streams](https://university.redislabs.com/courses/ru202/)
+- [Redis Security](https://university.redislabs.com/courses/ru330/)
+
+## [MongoDB University](https://university.mongodb.com/) 
+Aprende MongDB con cursos y tutoriales gratuitos
     
 - [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
 - [M100: MongoDB for SQL Pros](https://university.mongodb.com/courses/M100/about)
@@ -39,7 +43,7 @@ Lista de recursos para ser un desarrollador
 - [M312: Diagnostics and Debugging](https://university.mongodb.com/courses/M312/about)
 - [M320: Data Modeling](https://university.mongodb.com/courses/M320/about)
 
-[Pildoras Informaticas](https://www.pildorasinformaticas.es/)
+## [Pildoras Informaticas](https://www.pildorasinformaticas.es/)
 Cursos informaticos gratuitos, cuenta con un canal de [youtube](https://www.youtube.com/user/pildorasinformaticas)
 
 - Ofimática
@@ -75,7 +79,8 @@ Cursos informaticos gratuitos, cuenta con un canal de [youtube](https://www.yout
 - [Java EE](https://www.pildorasinformaticas.es/course-cat/java-ee/)
 - [C#](https://www.pildorasinformaticas.es/course-cat/c/)
 
-[Jonmircha](https://jonmircha.com): Tu amigo y docente digital
+## [Jonmircha](https://jonmircha.com)
+Tu amigo y docente digital
 - [Curso JavaScript](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA)
 - [Curso Flexbox CSS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbQc3dGsssp8lxAi5npMrys)
 - [Progressive Web Apps](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYIw8CP2AP7QJs4GeeZdvs6)
@@ -92,7 +97,8 @@ Cursos informaticos gratuitos, cuenta con un canal de [youtube](https://www.yout
 - [Curso jQuery](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYvLDfVUXOhnZ6QSouIfQQ7)
 - [Curso ActionScript 3](https://www.youtube.com/playlist?list=PLB9840C1696C1BC94)
 
-[Yoney Gallardo](https://yoneygallardo.com/) Cursos y tutoriales de infomática en español
+## [Yoney Gallardo](https://yoneygallardo.com/) 
+Cursos y tutoriales de infomática en español
 - [Programación](https://yoneygallardo.com/category/cursos-de-programacion/)
 - [Ofimática](https://yoneygallardo.com/category/cursos-de-ofimatica/)
 - [Modelado y Animación](https://yoneygallardo.com/category/cursos-de-modelado-y-animacion/)
