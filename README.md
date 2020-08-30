@@ -24,11 +24,7 @@ Lista de recursos para ser un desarrollador
     - [Redis Security](https://university.redislabs.com/courses/ru330/)
 
 [MongoDB University](https://university.mongodb.com/) Aprende MongDB con cursos y tutoriales gratuitos
- -  
-
-[Pildoras Informaticas](https://www.pildorasinformaticas.es/)
-Cursos informaticos gratuitos, cuenta con un canal de [youtube](https://www.youtube.com/user/pildorasinformaticas)
-
+    
 - [M001: MongoDB Basics](https://university.mongodb.com/courses/M001/about)
 - [M100: MongoDB for SQL Pros](https://university.mongodb.com/courses/M100/about)
 - [M103: Basic Cluster Administration](https://university.mongodb.com/courses/M103/about)
@@ -42,7 +38,10 @@ Cursos informaticos gratuitos, cuenta con un canal de [youtube](https://www.yout
 - [M310: MongoDB Security](https://university.mongodb.com/courses/M310/about)
 - [M312: Diagnostics and Debugging](https://university.mongodb.com/courses/M312/about)
 - [M320: Data Modeling](https://university.mongodb.com/courses/M320/about)
-  
+
+[Pildoras Informaticas](https://www.pildorasinformaticas.es/)
+Cursos informaticos gratuitos, cuenta con un canal de [youtube](https://www.youtube.com/user/pildorasinformaticas)
+
 - Ofimática
     - [Excel 2019. Basico - Medio - Avanzado](https://www.pildorasinformaticas.es/course/excel-2019-basico-medio-avanzado/)
     - [PowerPoint 2013](https://www.pildorasinformaticas.es/course/powerpoint-2013/)
@@ -77,21 +76,21 @@ Cursos informaticos gratuitos, cuenta con un canal de [youtube](https://www.yout
 - [C#](https://www.pildorasinformaticas.es/course-cat/c/)
 
 [Jonmircha](https://jonmircha.com): Tu amigo y docente digital
-    - [Curso JavaScript](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA)
-    - [Curso Flexbox CSS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbQc3dGsssp8lxAi5npMrys)
-    - [Progressive Web Apps](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYIw8CP2AP7QJs4GeeZdvs6)
-    - [Curso Node.js](https://www.youtube.com/playlist?list=PLvq-jIkSeTUY3gY-ptuqkNEXZHsNwlkND)
-    - [Curso POO con PHP](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZEHvKw7Gx3g5CjlcvA3jr1)
-    - [Software para la Web](https://www.youtube.com/playlist?list=PLvq-jIkSeTUY7b6mTNigrfZxXNkk0aJd2)
-    - [Tips CSS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYVLwbW09GGgG2EOFJeNWmQ)
-    - [KISS PHP](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZWYh18UN6Q9rfkoqy5A9Xn)
-    - [Curso Desarrollo Web](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbxAO7uRoeNHH6ZCyjr7xq2)
-    - [Responsive Design](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbFYbzpJFN1GLMBZnm9hX5G)
-    - [Curso WordPress](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZDOcKsQz79wnYlTvmAdLkj)
-    - [Tutoriales HTML5](https://www.youtube.com/playlist?list=PL211E9DF848CA18FF)
-    - [Tutoriales PHP](https://www.youtube.com/playlist?list=PL469D93BF3AE1F84F)
-    - [Curso jQuery](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYvLDfVUXOhnZ6QSouIfQQ7)
-    - [Curso ActionScript 3](https://www.youtube.com/playlist?list=PLB9840C1696C1BC94)
+- [Curso JavaScript](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA)
+- [Curso Flexbox CSS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbQc3dGsssp8lxAi5npMrys)
+- [Progressive Web Apps](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYIw8CP2AP7QJs4GeeZdvs6)
+- [Curso Node.js](https://www.youtube.com/playlist?list=PLvq-jIkSeTUY3gY-ptuqkNEXZHsNwlkND)
+- [Curso POO con PHP](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZEHvKw7Gx3g5CjlcvA3jr1)
+- [Software para la Web](https://www.youtube.com/playlist?list=PLvq-jIkSeTUY7b6mTNigrfZxXNkk0aJd2)
+- [Tips CSS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYVLwbW09GGgG2EOFJeNWmQ)
+- [KISS PHP](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZWYh18UN6Q9rfkoqy5A9Xn)
+- [Curso Desarrollo Web](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbxAO7uRoeNHH6ZCyjr7xq2)
+- [Responsive Design](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbFYbzpJFN1GLMBZnm9hX5G)
+- [Curso WordPress](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZDOcKsQz79wnYlTvmAdLkj)
+- [Tutoriales HTML5](https://www.youtube.com/playlist?list=PL211E9DF848CA18FF)
+- [Tutoriales PHP](https://www.youtube.com/playlist?list=PL469D93BF3AE1F84F)
+- [Curso jQuery](https://www.youtube.com/playlist?list=PLvq-jIkSeTUYvLDfVUXOhnZ6QSouIfQQ7)
+- [Curso ActionScript 3](https://www.youtube.com/playlist?list=PLB9840C1696C1BC94)
 
 [Yoney Gallardo](https://yoneygallardo.com/) Cursos y tutoriales de infomática en español
 - [Programación](https://yoneygallardo.com/category/cursos-de-programacion/)
