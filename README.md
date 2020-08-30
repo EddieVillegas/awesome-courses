@@ -140,3 +140,14 @@ Tu carrera como desarrollador web comienza aquí
     - [Javascript](https://www.theodinproject.com/courses/javascript)
     - [HTML and CSS ](https://www.theodinproject.com/courses/html-and-css)
     - [Getting Hired](https://www.theodinproject.com/courses/getting-hired)
+
+## [Itoo](https://itoo.dev?affcode=600175_4eur2cvy)
+Plataforma de educación digital con soporte personalizado de los mejores instructores
+- [Minicurso Firebase para Android. Base de datos(tiempo real)](https://itoo.dev/p/curso-firebase-para-android-realtime-database?affcode=600175_4eur2cvy)
+- [Master en Python 3.x. Aprende de 0 a EXPERTO con Práctica](https://itoo.dev/p/python3?affcode=600175_4eur2cvy)
+- [React JS: La biblioteca de JS creada por Facebook](https://itoo.dev/p/react-js-la-biblioteca-de-js-creada-por-facebook?affcode=600175_4eur2cvy)
+- [Minicurso Diseño para android con Material Design y Theming](https://itoo.dev/p/minicurso-material-design-for-android?affcode=600175_4eur2cvy)
+- [Aprende Lenguaje GO desde 0](https://itoo.dev/p/lenguaje-go-desde-0?affcode=600175_4eur2cvy)
+- [Lenguaje COBOL desde 0](https://itoo.dev/p/lenguaje-cobol-desde-0?affcode=600175_4eur2cvy)
+- [Como instalar cualquier CMS en un Hosting](https://itoo.dev/p/como-instalar-cualquier-cms-en-un-hosting?affcode=600175_4eur2cvy)
+- [Programación Básica](https://itoo.dev/p/como-instalar-cualquier-cms-en-un-hosting?affcode=600175_4eur2cvy)
