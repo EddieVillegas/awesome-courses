@@ -1,4 +1,4 @@
-# Awesome Resources
+# Awesome Courses
 
 Lista de recursos para ser un desarrollador
 
