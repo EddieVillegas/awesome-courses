@@ -2,7 +2,7 @@
 
 Lista de recursos para ser un desarrollador
 
-## [Freecodecamp](https://www.freecodecamp.org/learn): 
+## [Freecodecamp](https://www.freecodecamp.org/learn)
 Plataforma educativa que brinda las siguentes certificaciones completamente gratuitas, cuenta con bolsa de trabajo y un canal de [youtube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
 - JavaScriopt Algorithms and Data Structures
@@ -151,3 +151,42 @@ Plataforma de educación digital con soporte personalizado de los mejores instru
 - [Lenguaje COBOL desde 0](https://itoo.dev/p/lenguaje-cobol-desde-0?affcode=600175_4eur2cvy)
 - [Como instalar cualquier CMS en un Hosting](https://itoo.dev/p/como-instalar-cualquier-cms-en-un-hosting?affcode=600175_4eur2cvy)
 - [Programación Básica](https://itoo.dev/p/como-instalar-cualquier-cms-en-un-hosting?affcode=600175_4eur2cvy)
+
+## [Scrimba](https://scrimba.com/)
+Plataforma interactiva para aprender a programar en tecnologias como HTML, CSS, JavaScript, React, Vue y mucho mas.
+- [Practical math for frontend developers](https://scrimba.com/course/gpracticalmath)
+- [Build a movie search app in React](https://scrimba.com/course/greactmovie)
+- [Learn Svelte](https://scrimba.com/course/glearnsvelte)
+- [Learn CSS Animations](https://scrimba.com/course/gcssanimations)
+- [Build an app with React and GraphQL](https://scrimba.com/course/greactgraphql)
+- [Build Tic Tac Toe with React Hooks](https://scrimba.com/course/greactgame)
+- [Learn Vuetify for free](https://scrimba.com/course/gvuetify/enrolled)
+- [The Working Developer's Guide To Algorithms](https://scrimba.com/course/galgorithmsguide/enrolled)
+- [Learn Alpine JS](https://scrimba.com/course/galpinejs/enrolled)
+- [Learn UI Design Fundamentals](https://scrimba.com/course/gdesign/enrolled)
+- [Learn Tailwind CSS for free](https://scrimba.com/course/gtailwind/enrolled)
+- [Build and deploy a portfolio on DigitalOcean](https://scrimba.com/course/gportfolio)
+- [The Coding Bootcamp Primer](https://scrimba.com/course/gbootcampprimer/enrolled)
+- [Learn React Hooks In One Hour](https://scrimba.com/course/greacthooks)
+- [HTML & CSS Crash Course](https://scrimba.com/course/ghtmlcss)
+- [Learn Vuex](https://scrimba.com/course/gvuex)
+- [Learn React for free](https://scrimba.com/course/glearnreact)
+- [Build an expense organizer with ES6 and Dropbox](https://scrimba.com/course/gdropbox)
+- [Learn modern JavaScript](https://scrimba.com/course/ges6)
+- [Learn CSS Variables for free](https://scrimba.com/course/gcssvariables)
+- [Build your first Angular app](https://scrimba.com/course/gyourfirstangularapp)
+- [Learn Python for free](https://scrimba.com/course/gpython)
+- [Learn Regular Expressions](https://scrimba.com/course/gregularexpressions)
+- [Neural networks in JavaScript](https://scrimba.com/course/gneuralnetworks)
+- [Learn Vue.js for free](https://scrimba.com/course/glearnvue)
+- [Introduction to TypeScript](https://scrimba.com/course/gintrototypescript)
+- [Learn Bulma CSS for free](https://scrimba.com/course/gbulma)
+- [Introduction to CSS](https://scrimba.com/course/gintrotocss)
+- [Introduction to ES6+](https://scrimba.com/course/gintrotoes6)
+- [Introduction to JavaScript](https://scrimba.com/course/gintrotojavascript)
+- [How to build a beautiful blog](https://scrimba.com/course/gbuildablog)
+- [Learn D3 for free](https://scrimba.com/course/gd3js)
+- [Introduction to HTML](https://scrimba.com/course/ghtml)
+- [Learn Bootstrap 4 for free](https://scrimba.com/course/gbootstrap4)
+- [Learn Flexbox for free](https://scrimba.com/course/gflexbox)
+- [Learn CSS Grid for free](https://scrimba.com/course/gR8PTE)
