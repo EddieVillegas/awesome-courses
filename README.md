@@ -221,3 +221,15 @@ Tutoriales de programación gratuitos y en castellano
     - [HTML Básico](https://www.makigas.es/series/html-basico)
     - [Web Components](https://www.makigas.es/series/web-components)
     - [TypeScript](https://www.makigas.es/series/typescript)
+
+## [Capacitate para el empleo](https://capacitateparaelempleo.org/)
+Plataforma digital desarrollada por la fundacion carlos slim con miles de cursos y diplomados gratuitos
+- [Diplomado Técnico en Big Data](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtbd)
+- [Diplomado Técnico en Sistemas Informáticos](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtsi)
+- [Diplomado Técnico en Integridad web](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtiw)
+- [Diplomado Gestión de Ambientes Virtuales de Aprendizaje](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtgava)
+- [Diplomado en Gestión de Ambientes Virtuales de Aprendizaje](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtgava)
+- [Diplomado de Desarrollo de estrategias digitales de aprendizaje ](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dteda)
+- [Diplomado en Desarrollo de sitios web y aplicaciones móviles](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dswam)
+- [Diplomado en Inteligencia de negocios o Business intelligence ](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtbi)
+- [Diplomado Técnico en Cómputo en la nube](https://capacitateparaelempleo.org/pages.php?r=.mx_perfil_oficial_infographic&diplomadoID=dtcn)
